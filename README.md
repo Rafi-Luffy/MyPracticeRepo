@@ -1,6 +1,7 @@
-# Week 1 – Design Patterns and Principles (Hands-On)
+# Week 1 – Design Patterns & DSA
 
-This week's hands-on covers core object-oriented design patterns.
-We practiced 11 key patterns like Singleton, Factory, Builder, Adapter, and more.
-Each pattern includes a real-world scenario and working Java code.
-The exercises help understand clean design and modular architecture.
+Practiced SOLID principles and 11 key design patterns like Singleton and Factory.  
+Solved real-world Java exercises for each pattern to learn clean code structure.  
+Learned DSA basics like arrays, linked lists, sorting and searching algorithms.  
+Did hands-on coding for bubble sort, binary search, etc.  
+This Week helped me improve both design thinking and logic building skills.
