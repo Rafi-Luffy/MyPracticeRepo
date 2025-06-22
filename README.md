@@ -1,4 +1,4 @@
-# Week 1 – Design Patterns & DSA
+# Week 1 – Design Patterns and Principles , DSA
 
 Practiced SOLID principles and 11 key design patterns like Singleton and Factory.  
 Solved real-world Java exercises for each pattern to learn clean code structure.  
