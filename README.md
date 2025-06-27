@@ -14,7 +14,7 @@
 
 ---
 
-## Week 2 – PL/SQL Fundamentals
+## Week 2 – PL/SQL
 
 - Learned PL/SQL concepts like block structure, variables, control structures, exceptions, and cursors.  
 - Practiced writing procedures, functions, packages, and triggers with hands-on examples for database logic.
