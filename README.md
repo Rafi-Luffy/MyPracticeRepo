@@ -14,9 +14,21 @@
 
 ---
 
-## Week 2 – PL/SQL
+## Week 2 – PL/SQL, TDD & Logging Frameworks
 
 - Learned PL/SQL concepts like block structure, variables, control structures, exceptions, and cursors.  
-- Practiced writing procedures, functions, packages, and triggers with hands-on examples for database logic.
+- Practiced writing procedures, functions, packages, and triggers with hands-on examples for database logic.  
+- Understood Test-Driven Development (TDD) and implemented test cases using JUnit.  
+- Used Mockito for mocking Spring components and verifying interactions.  
+- Explored automation tools like Selenium, TestNG, and Cucumber.  
+- Implemented SLF4J for structured logging and learned log levels and appenders.
+
+---
+
+## Week 3 – Spring Core, AOP & Spring Boot
+
+- Built Spring projects using Maven and implemented DI using XML, annotations, and Java config.  
+- Applied Spring AOP for cross-cutting concerns like logging using AspectJ.  
+- Developed a full-stack Spring Boot CRUD application with REST endpoints and tested with Postman.
 
 ---
