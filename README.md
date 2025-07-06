@@ -29,6 +29,8 @@
 
 - Built Spring projects using Maven and implemented DI using XML, annotations, and Java config.  
 - Applied Spring AOP for cross-cutting concerns like logging using AspectJ.  
-- Developed a full-stack Spring Boot CRUD application with REST endpoints and tested with Postman.
+- Developed a full-stack Spring Boot CRUD application with REST endpoints and tested with Postman.  
+- Used Spring Data JPA to implement service layers with repository interfaces for entity operations.  
+- Performed insert, update, delete, and partial search features using `CommandLineRunner`.
 
 ---
