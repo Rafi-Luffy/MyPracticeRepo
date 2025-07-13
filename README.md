@@ -34,3 +34,14 @@
 - Performed insert, update, delete, and partial search features using `CommandLineRunner`.
 
 ---
+
+## Week 4 – Spring REST, Spring Boot 3 & JWT Authentication
+
+- Built RESTful services using Spring Boot 3 and explored REST fundamentals like HTTP methods, path/query parameters, and JSON handling.  
+- Created DTOs to separate data layers and added input validation using annotations.  
+- Performed full CRUD operations and applied content negotiation for JSON/XML responses.  
+- Implemented JWT-based token authentication using `jjwt` and secured endpoints with Spring Security.  
+- Monitored REST APIs using Spring Boot Actuator and learned to expose custom metrics.  
+- Practiced unit and integration testing with JUnit, Mockito, and documented APIs using Swagger.
+
+---
