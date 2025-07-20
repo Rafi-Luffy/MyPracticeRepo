@@ -45,3 +45,15 @@
 - Practiced unit and integration testing with JUnit, Mockito, and documented APIs using Swagger.
 
 ---
+
+## Week 5 – Microservices, Spring Cloud & API Gateway
+
+- Understood the fundamentals of microservices and how they differ from monolithic architecture.
+- Explored core principles like single responsibility, decentralized data management, and continuous delivery.
+- Identified challenges in microservices such as inter-service communication, monitoring, and data consistency.
+- Implemented microservices components like Service Registry (Eureka), API Gateway, and Load Balancing.
+- Secured communication using OAuth2, JWT, and centralized authentication mechanisms in Spring Security.
+- Used Spring Cloud tools like Feign Client, Config Server, and Circuit Breaker patterns for resilience.
+- Learned to monitor microservices using Spring Boot Actuator, Prometheus, and Grafana dashboards.
+
+--- 
