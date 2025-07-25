@@ -57,3 +57,12 @@
 - Learned to monitor microservices using Spring Boot Actuator, Prometheus, and Grafana dashboards.
 
 --- 
+
+## Week 6 – React JS & Component-Based Development
+
+- Built multiple hands-on apps using React with both functional and class-based components.
+- Practiced creating reusable components, managing props, and styling elements with inline CSS.
+- Implemented stateful logic in class components and updated UI dynamically using event handlers.
+- Focused on matching UI with real-world mockups and learned structured JSX layout practices.
+
+--- 
