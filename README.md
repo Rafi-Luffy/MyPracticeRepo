@@ -66,3 +66,12 @@
 - Focused on matching UI with real-world mockups and learned structured JSX layout practices.
 
 --- 
+
+## Week 7 – Advanced React Concepts and Application Building
+
+- Used ES6 features like map and filter to dynamically render lists and manipulate data.
+- Practiced conditional rendering to display different components based on application state.
+- Handled user interactions with event handlers and managed state using both hooks and classes.
+- Implemented the Context API for sharing global data, like themes, between components.
+- Built controlled forms with real-time validation to provide instant user feedback.
+- Fetched data from a REST API using lifecycle methods to populate components dynamically.
