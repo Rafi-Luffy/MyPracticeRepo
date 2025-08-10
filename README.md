@@ -75,3 +75,17 @@
 - Implemented the Context API for sharing global data, like themes, between components.
 - Built controlled forms with real-time validation to provide instant user feedback.
 - Fetched data from a REST API using lifecycle methods to populate components dynamically.
+
+---
+
+## Week 8 – Git Fundamentals & GitLab Integration
+
+- Set up a local Git environment, configuring user details and setting VS Code as the default editor.
+- Practiced the core Git workflow: initializing a repository, staging files (git add), and making commits (git commit).
+- Learned to keep the repository clean by using a .gitignore file to exclude logs and temporary files from being tracked.
+- Managed different lines of development using branching, including creating, switching, and pushing new branches to GitLab.
+- Performed merges of different branches into the master and learned to view the project history with decorated logs.
+- Simulated and resolved a merge conflict by manually editing the conflicted file, committing the resolution, and cleaning up the feature branch.
+- Synchronized the local repository with the remote on GitLab by pushing all changes, including merges and new branches.
+
+  
