@@ -1,4 +1,4 @@
-# Cognizant Deep Skilling – Learning Journal
+# Learning Journal
 
 > 📌 **Note:** Due to formatting inconsistencies across different word processing applications and operating systems (I used WPS Office on my Mac), an additional `pdf/` folder is included. It contains PDF versions of the Word files for better readability and consistency.
 
